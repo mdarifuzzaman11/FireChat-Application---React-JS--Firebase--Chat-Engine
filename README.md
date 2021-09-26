@@ -10,4 +10,13 @@ You will learn how to build a react chat app using [https://chatengine.io](https
 
 Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
 
+### Dependencies
+
+* On Terminal run the following code
+```
+npm install
+```
+
+* NOTE: Rename Firechat Application with what you like!
+
 
